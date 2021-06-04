@@ -1,0 +1,12 @@
+things =[
+    Thing('Tak', 92, 23),
+    Thing('Tak2', 57, 31),
+    Thing('Tak3', 49, 29),
+    Thing('Tak4', 68, 44),
+    Thing('Nie5', 60, 53),
+    Thing('Tak6', 43, 38),
+    Thing('Nie7', 67, 63),
+    Thing('Nie8', 84, 85),
+    Thing('Nie9', 87, 89),
+    Thing('Nie10', 72, 82),
+]
